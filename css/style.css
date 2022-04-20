@@ -1,0 +1,21 @@
+body {
+    font: 20px arial, sans-serif; 
+}
+.navbar {
+    background-color: rgb(39, 122, 170);
+}
+
+.quem-somos {
+    background-color: rgb(80, 80, 82);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.rodape {
+    background-color: black;
+    font: white;
+}
